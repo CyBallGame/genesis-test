@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.1a27ec8c.chunk.css",
-    "main.js": "/static/js/main.2a114e38.chunk.js",
+    "main.js": "/static/js/main.a1de27b7.chunk.js",
     "runtime-main.js": "/static/js/runtime-main.f9d263eb.js",
     "static/css/2.a5dbbb6c.chunk.css": "/static/css/2.a5dbbb6c.chunk.css",
-    "static/js/2.d99401f5.chunk.js": "/static/js/2.d99401f5.chunk.js",
+    "static/js/2.542e6bc2.chunk.js": "/static/js/2.542e6bc2.chunk.js",
     "static/js/3.376f722a.chunk.js": "/static/js/3.376f722a.chunk.js",
     "static/js/4.e9860587.chunk.js": "/static/js/4.e9860587.chunk.js",
     "index.html": "/index.html",
-    "static/js/2.d99401f5.chunk.js.LICENSE.txt": "/static/js/2.d99401f5.chunk.js.LICENSE.txt",
+    "static/js/2.542e6bc2.chunk.js.LICENSE.txt": "/static/js/2.542e6bc2.chunk.js.LICENSE.txt",
     "static/media/Info.350b7195.svg": "/static/media/Info.350b7195.svg",
     "static/media/money.02b229f1.svg": "/static/media/money.02b229f1.svg",
     "static/media/slick-theme.css": "/static/media/slick.c94f7671.ttf",
@@ -17,8 +17,8 @@
   "entrypoints": [
     "static/js/runtime-main.f9d263eb.js",
     "static/css/2.a5dbbb6c.chunk.css",
-    "static/js/2.d99401f5.chunk.js",
+    "static/js/2.542e6bc2.chunk.js",
     "static/css/main.1a27ec8c.chunk.css",
-    "static/js/main.2a114e38.chunk.js"
+    "static/js/main.a1de27b7.chunk.js"
   ]
 }
