@@ -1,24 +1,24 @@
 {
   "files": {
     "main.css": "/static/css/main.3049d191.chunk.css",
-    "main.js": "/static/js/main.c8d2b180.chunk.js",
-    "runtime-main.js": "/static/js/runtime-main.c9a319a0.js",
+    "main.js": "/static/js/main.fa4f142b.chunk.js",
+    "runtime-main.js": "/static/js/runtime-main.cbe63bfe.js",
     "static/css/2.a5dbbb6c.chunk.css": "/static/css/2.a5dbbb6c.chunk.css",
-    "static/js/2.c3bd0b9e.chunk.js": "/static/js/2.c3bd0b9e.chunk.js",
-    "static/js/3.d9c1642c.chunk.js": "/static/js/3.d9c1642c.chunk.js",
+    "static/js/2.1e42260a.chunk.js": "/static/js/2.1e42260a.chunk.js",
+    "static/js/3.e43a2234.chunk.js": "/static/js/3.e43a2234.chunk.js",
     "static/js/4.e46099ec.chunk.js": "/static/js/4.e46099ec.chunk.js",
     "index.html": "/index.html",
-    "static/js/2.c3bd0b9e.chunk.js.LICENSE.txt": "/static/js/2.c3bd0b9e.chunk.js.LICENSE.txt",
+    "static/js/2.1e42260a.chunk.js.LICENSE.txt": "/static/js/2.1e42260a.chunk.js.LICENSE.txt",
     "static/media/Info.350b7195.svg": "/static/media/Info.350b7195.svg",
     "static/media/money.02b229f1.svg": "/static/media/money.02b229f1.svg",
     "static/media/slick-theme.css": "/static/media/slick.c94f7671.ttf",
     "static/media/time.c0e239a1.svg": "/static/media/time.c0e239a1.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.c9a319a0.js",
+    "static/js/runtime-main.cbe63bfe.js",
     "static/css/2.a5dbbb6c.chunk.css",
-    "static/js/2.c3bd0b9e.chunk.js",
+    "static/js/2.1e42260a.chunk.js",
     "static/css/main.3049d191.chunk.css",
-    "static/js/main.c8d2b180.chunk.js"
+    "static/js/main.fa4f142b.chunk.js"
   ]
 }
